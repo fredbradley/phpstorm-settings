@@ -4,6 +4,7 @@
       <mapping pattern="TopdeskOutput" type="PHP" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
     </extensionMap>
   </component>
